@@ -4,7 +4,7 @@ Content-Type: application/json
 
 {
   "name": "Ahmed Khaled",
-  "email": "billing@account.com",
+  "email": "producekafkaa@produce.com",
   "address": "cairo, egypt",
   "dateOfBirth": "1995-09-09",
   "registeredDate": "2024-11-28"
