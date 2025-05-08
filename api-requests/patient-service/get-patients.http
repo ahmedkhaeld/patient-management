@@ -1,4 +1,4 @@
 ### GET request to get all patients (through the api gateway)
+### added a security header
 GET http://localhost:4004/api/patients
-
-###
+Authorization: Bearer {{token}}
